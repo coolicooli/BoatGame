@@ -1,0 +1,5 @@
+This program is a small project to showcase what I have learned over the first semester of my experience using DirectX 11.  This has produced a graphics engine which will be further developed over the next semesters into a fully functional game engine.
+
+The program comprises of a ship which sails around a lake, collecting coins whilst avoiding obstacles. The goal of the game is to collect as many coins as possible.
+
+To operate my program, you use the W, A ,S and D keys to move and rotate the player ship.  The camera can alternate between several choices with use of the numpad keys 1 to 4.  Numpad 0 can be used to toggle “wireframe mode”, allowing you to see the structure of all objects generated.
