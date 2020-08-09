@@ -1,3 +1,4 @@
 # BoatGame
 Click on the green code button to download
-(Then click on the EXE file to load the game)
+(Extract the ZIP file, then click on the "DX11 Framework" aplication file to load the game).
+The "Instructions" file explains how to run the game.
